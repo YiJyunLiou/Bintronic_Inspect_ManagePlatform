@@ -1,0 +1,2 @@
+# Bintronic_Inspect_ManagePlatform
+Bintronic Inspect Manage Platform
